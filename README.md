@@ -1,3 +1,5 @@
 # hello-world
-hello world!
-I studied business administration for four years. While completing my degree, I enrolled in a computer science minor. Since graduating, I continued to study computer science. I am excited by this latest technical branch of knowledge I have been devling into. I endeavor to pursue software developing as a career path.
+
+Hello World!
+
+I am a relatively recent college graduate. I received my Bachelor's degree in Business Administration with a Concentration in Marketing, and Minor in Computer Science. When my job hunt commenced, I had not decided on a career path to pursue yet. Ultimately, I chose to apply my computer science knowledge in technically challenging roles. While researching the IT job market, I discovered an IT bootcamp. Operating under DCI Resources LLC, eligible individuals who wanted to boost their technical skillset were free to apply for admission into the program. I applied, developed my knowledge of core computer science knowledge by earning 6 certifications: ITS Java, MTA Software Development, MTA HTML 5 Application Development, MTA Database Administration, CompTIA IT Fundamentals+, and Intro to Cybersecurity. Now, I feel significanly more confidet in my software developing and debugging abilities. Consequntly, I am ready to jump head first into the job pool! My amibition is to be a web developer, full stack developer, software developer, or some variation of these titles. As long as the job involves producing technical solutions to solve critical issues, than I'll be completely allured by the opportunity. 
